@@ -1,8 +1,8 @@
 - 👋 Hi, I’m a Martian
-- 👀 I’m interested in Solar system
-- 🌱 I’m currently learning Language
-- 💞️ I’m looking to collaborate on Planets
-- 📫 Reach me via v@MarsLink.in
+- 👀 I’m interested in Galaxy
+- 🌱 I’m currently learning Languages
+- 💞️ I’m looking to collaborate on Mars and Stars
+- 📫 You can reach me via v@MarsLink.in
 
 <!---
 marslinkin/marslinkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
